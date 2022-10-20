@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.altura-arriba-abajo{
+    padding: 100px 0;
+}
+.logotipo{
+    width: 150px;
+    padding: 10px 0;
+}
+.iconos-redes-header{
+    width: 20px;
+    margin: 10px 5px;
+}
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+    bottom: 20px;
+    left: 15%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(238, 203, 8);
+    text-align: center;
+    font-size: 40px;
+}
+.banner-video{
+    background-image: url("/img/video.jpg");
+    padding: 200px 0;
+    position: relative;
+    text-align: center;
+}
+.banner-video .play{
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+footer{
+    background-color: #343a40;
+    padding: 100px 0;
+    text-align: center;
+}
+footer .logotipo-footer{
+    width: 200px;
+    margin-bottom: 20px;
+}
+footer p{
+    color: white;
+    font-size: 15px;
+}
